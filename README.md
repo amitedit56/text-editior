@@ -51,10 +51,6 @@ python main.py
   <img src="assets/text_editior_screenshot.png" width="800"/>
 </p>
 
-```
-![App Screenshot](assets/screenshot.png)
-```
-
 ---
 
 ## 📁 Project Structure
@@ -66,7 +62,6 @@ amit-text-editor/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── .gitignore │
 ├── assets/ │
     └── text_editor_screenshot.png
 ```
